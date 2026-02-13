@@ -1,0 +1,5 @@
+.*
+!.gitignore
+!.projet
+tests/
+temp.txt
